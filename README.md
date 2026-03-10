@@ -1,11 +1,18 @@
-![Github License](https://img.shields.io/github/license/wilmeryf/MontagemManutencaoMicrocomputadores?style=for-the-badge
-)
+![Github License](https://img.shields.io/github/license/wilmeryf/montagem-de-microcomputadores?style=for-the-badge) _
+![Hardware](https://img.shields.io/badge/Hardware-PC-blue?style=for-the-badge&logo=windows)
 
-# 🖥 Projeto – Montagem e Configuração de Computador
+# Projeto – Montagem e Manutenção de Micro-Computador
 
 **Unidade Curricular 3 - SENAC**
 
-**Data:** 06 e 10 de fevereiro de 2026
+> **Data:** 06 e 10 de fevereiro de 2026
+
+**Professor:** Leandro Ramos  
+**Aluno:** Anderson Wilmer Yapiticona Flores
+
+---
+
+## Visão Geral
 
 Este projeto consiste na montagem completa de um computador desktop, seguida da instalação e configuração do sistema operacional e softwares essenciais para uso.
 
@@ -13,7 +20,7 @@ O objetivo foi aplicar na prática os conhecimentos adquiridos em aula, realizan
 
 ---
 
-## 🔧 1. Montagem e Testes de Hardware
+## 1. Montagem e Testes de Hardware
 
 ### 🔹 Montagem em bancada (teste inicial)
 
@@ -47,7 +54,7 @@ Esse procedimento permite verificar o POST antes da instalação definitiva.
 
 ---
 
-## 💻 2. Instalação e Configuração do Sistema
+## 2. Instalação e Configuração do Sistema
 
 ### 🔹 Instalação do Windows 10 Pro
 
@@ -87,7 +94,7 @@ Foram instalados softwares básicos para uso diário e produtividade.
 
 ---
 
-## ✅ 3. Máquina pronta para uso
+## 3. Máquina pronta para uso
 
 Após montagem, testes e configurações, o computador foi entregue totalmente funcional.
 
@@ -95,7 +102,7 @@ Após montagem, testes e configurações, o computador foi entregue totalmente f
 
 ---
 
-## 📌 Atividades Realizadas
+## Atividades Realizadas
 
 - Montagem de hardware
 - Teste de POST
@@ -107,6 +114,6 @@ Após montagem, testes e configurações, o computador foi entregue totalmente f
 
 ---
 
-## 🎯 Resultado
+## Resultado
 
 Projeto concluído com sucesso, aplicando na prática os conhecimentos de montagem e preparação de computadores.
