@@ -1,4 +1,4 @@
-![Github License](https://img.shields.io/github/license/wilmeryf/montagem-de-microcomputadores?style=for-the-badge) _
+![Github License](https://img.shields.io/github/license/wilmeryf/montagem-microcomputadores?style=for-the-badge) -
 ![Hardware](https://img.shields.io/badge/Hardware-PC-blue?style=for-the-badge&logo=windows)
 
 # Projeto – Montagem e Manutenção de Micro-Computador
